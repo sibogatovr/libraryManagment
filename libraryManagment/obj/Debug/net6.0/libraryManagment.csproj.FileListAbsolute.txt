@@ -1,0 +1,15 @@
+C:\VS\libraryManagment\libraryManagment\bin\Debug\net6.0\libraryManagment.exe
+C:\VS\libraryManagment\libraryManagment\bin\Debug\net6.0\libraryManagment.deps.json
+C:\VS\libraryManagment\libraryManagment\bin\Debug\net6.0\libraryManagment.runtimeconfig.json
+C:\VS\libraryManagment\libraryManagment\bin\Debug\net6.0\libraryManagment.dll
+C:\VS\libraryManagment\libraryManagment\bin\Debug\net6.0\libraryManagment.pdb
+C:\VS\libraryManagment\libraryManagment\obj\Debug\net6.0\libraryManagment.csproj.AssemblyReference.cache
+C:\VS\libraryManagment\libraryManagment\obj\Debug\net6.0\libraryManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\libraryManagment\libraryManagment\obj\Debug\net6.0\libraryManagment.AssemblyInfoInputs.cache
+C:\VS\libraryManagment\libraryManagment\obj\Debug\net6.0\libraryManagment.AssemblyInfo.cs
+C:\VS\libraryManagment\libraryManagment\obj\Debug\net6.0\libraryManagment.csproj.CoreCompileInputs.cache
+C:\VS\libraryManagment\libraryManagment\obj\Debug\net6.0\libraryManagment.dll
+C:\VS\libraryManagment\libraryManagment\obj\Debug\net6.0\refint\libraryManagment.dll
+C:\VS\libraryManagment\libraryManagment\obj\Debug\net6.0\libraryManagment.pdb
+C:\VS\libraryManagment\libraryManagment\obj\Debug\net6.0\libraryManagment.genruntimeconfig.cache
+C:\VS\libraryManagment\libraryManagment\obj\Debug\net6.0\ref\libraryManagment.dll
